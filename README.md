@@ -22,12 +22,6 @@ Make sure you have the following installed:
    git clone https://github.com/Animiiexe/borzoi-dogs-api.git
    ```
 
-   2. Navigate to the project directory:  
-   ```bash
-   cd borzoi-dogs-api
-   ```
-   Here's the continuation of the Installation section with your GitHub repository link:
-
 2. Navigate to the project directory:  
    ```bash
    cd borzoi-dogs-api
@@ -43,7 +37,7 @@ npm install
 npm start
  ```
 
-Open your browser and go to:
+5. Open your browser and go to:
 ```bash
     http://localhost:3000
  ```
